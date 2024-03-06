@@ -1,6 +1,6 @@
 # Mémoire Machine Learning versus Statistical Learning
 ## *Description*
-A Thesis focused on the study the behavior of different Machine Learning algorithms and Statistical Learning algorithms in terms of variable selection within a model, to put their strengths and weaknesses into perspective according to several statistical criteria and different datasets.
+A Thesis focused on the study the behavior of different Machine Learning algorithms (Lasso, LAR, Elastic-net) and Statistical Learning algorithms (Stepwise, Forward/Backward) in terms of variable selection within a model, to put their strengths and weaknesses into perspective according to several statistical criteria (AIC, BIC, Cross Validation, etc) and different datasets.
 This study is divided into 3 parts essentially: 
 - The first one draws up a theoretical review of the algorithms, the statistical criteria, and other fundamental concepts.
 - The second part presents the different datasets and the results obtained for each algorithm according to the criteria.
